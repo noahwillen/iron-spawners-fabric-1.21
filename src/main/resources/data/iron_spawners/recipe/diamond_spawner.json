@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "iii",
+    "isi",
+    "iii"
+  ],
+  "key": {
+    "i": {
+      "item": "minecraft:diamond"
+    },
+    "s": {
+      "item": "iron_spawners:emerald_spawner"
+    }
+  },
+  "result": {
+    "id": "iron_spawners:diamond_spawner",
+    "count": 1
+  }
+}

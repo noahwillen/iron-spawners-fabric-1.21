@@ -1,0 +1,22 @@
+{
+  "block.iron_spawners.iron_spawner": "Iron Spawner",
+  "block.iron_spawners.gold_spawner": "Gold Spawner",
+  "block.iron_spawners.emerald_spawner": "Emerald Spawner",
+  "block.iron_spawners.diamond_spawner": "Diamond Spawner",
+  "block.iron_spawners.netherite_spawner": "Netherite Spawner",
+  "itemgroup.iron_spawners": "Iron Spawners",
+  "iron_spawners.midnightconfig.title": "Iron Spawners",
+  "iron_spawners.midnightconfig.maxDelayComment": "Max Delay: spawn cycle timer in ticks.",
+  "iron_spawners.midnightconfig.ironMaxDelay": "Max Delay (Iron)",
+  "iron_spawners.midnightconfig.ironSpawnCt": "Spawn Count(Iron)",
+  "iron_spawners.midnightconfig.goldMaxDelay": "Max Delay (Gold)",
+  "iron_spawners.midnightconfig.goldSpawnCt": "Spawn Count(Gold)",
+  "iron_spawners.midnightconfig.emeraldMaxDelay": "Max Delay (Emerald)",
+  "iron_spawners.midnightconfig.emeraldSpawnCt": "Spawn Count(Emerald)",
+  "iron_spawners.midnightconfig.diamondMaxDelay": "Max Delay (Diamond)",
+  "iron_spawners.midnightconfig.diamondSpawnCt": "Spawn Count(Diamond)",
+  "iron_spawners.midnightconfig.netheriteMaxDelay": "Max Delay (Netherite)",
+  "iron_spawners.midnightconfig.netheriteSpawnCt": "Spawn Count(Netherite)",
+  "iron_spawners.midnightconfig.eggBlacklist": "Blacklisted Spawn Eggs",
+  "enchantment.iron_spawners.extracting": "Extracting"
+}

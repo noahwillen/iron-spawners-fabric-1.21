@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "iron_spawners:iron_spawner",
+    "iron_spawners:gold_spawner",
+    "iron_spawners:emerald_spawner",
+    "iron_spawners:diamond_spawner",
+    "iron_spawners:netherite_spawner"
+  ]
+}

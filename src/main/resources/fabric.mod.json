@@ -1,0 +1,41 @@
+{
+	"schemaVersion": 1,
+	"id": "iron_spawners",
+	"version": "${version}",
+	"name": "Iron Spawners",
+	"description": "This is an example description! Tell everyone what your mod is about!",
+	"authors": [
+		"Me!"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "CC0-1.0",
+	"icon": "assets/iron_spawners/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"dev.cre8r.iron_spawners.IronSpawners"
+		],
+		"client": [
+			"dev.cre8r.iron_spawners.IronSpawnersClient"
+		]
+	},
+	"mixins": [
+		"iron_spawners.mixins.json",
+		{
+			"config": "iron_spawners.client.mixins.json",
+			"environment": "client"
+		}
+	],
+	"depends": {
+		"fabricloader": ">=0.15.11",
+		"minecraft": "~1.21",
+		"java": ">=21",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}

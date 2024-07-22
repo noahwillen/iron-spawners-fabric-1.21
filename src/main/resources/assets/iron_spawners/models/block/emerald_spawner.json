@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "iron_spawners:block/emerald_spawner",
+    "particle": "iron_spawners:block/emerald_spawner"
+  },
+  "render_type": "cutout_mipped"
+}
