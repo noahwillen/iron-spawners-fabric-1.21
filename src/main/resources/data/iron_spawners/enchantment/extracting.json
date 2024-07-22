@@ -3,7 +3,7 @@
     "translate": "enchantment.iron_spawners.extracting"
   },
   "supported_items": "#minecraft:enchantable/sword",
-  "weight": 100,
+  "weight": 2,
   "max_level": 3,
   "min_cost": {
     "base": 15,
